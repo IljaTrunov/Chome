@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace people
+namespace Class2
 {
     class CclassCopy
     {
