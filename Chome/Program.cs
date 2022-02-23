@@ -1,12 +1,15 @@
-﻿using System;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace hometaskandclasscopy
+namespace Homework
 {
-    class Program
+    public class people
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public people() { }
     }
 }
